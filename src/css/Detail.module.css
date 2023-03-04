@@ -1,0 +1,23 @@
+.cover {
+  display: block;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-family: sans-serif, "Times New Roman", serif;
+}
+
+.description {
+  text-align: center;
+  font-family: sans-serif, "Times New Roman", serif;
+  color: white;
+}
+
+.loading {
+  color: yellow;
+  padding: 20px;
+  padding-left: 40px;
+  font-size: 60px;
+}

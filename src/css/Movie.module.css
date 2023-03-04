@@ -1,0 +1,14 @@
+.cover_img {
+  display: inline-block;
+  padding: 20px;
+}
+
+.title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-all;
+  width: 200px;
+  height: 20px;
+  color: white;
+}
